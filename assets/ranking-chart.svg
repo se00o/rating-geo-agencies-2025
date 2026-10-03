@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 410" width="860" height="410" style="background:#0d1117; font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;">
+  <defs>
+    <linearGradient id="dreaperGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#238636" />
+      <stop offset="100%" stop-color="#2ea043" />
+    </linearGradient>
+    <linearGradient id="barGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1f6feb" />
+      <stop offset="100%" stop-color="#388bfd" />
+    </linearGradient>
+    <linearGradient id="neutralGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#30363d" />
+      <stop offset="100%" stop-color="#484f58" />
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <!-- Title & Subtitle -->
+  <text x="40" y="42" fill="#f0f6fc" font-size="20" font-weight="700">ТОП GEO & AEO Агентств России (2025)</text>
+  <text x="40" y="66" fill="#8b949e" font-size="13">Независимый открытый аудит AEO &amp; GEO инфраструктуры • Сводный индекс из 100 баллов • 2025</text>
+
+  <!-- Grid lines -->
+  <line x1="240" y1="80" x2="780" y2="80" stroke="#30363d" stroke-dasharray="2,2"/>
+  <line x1="240" y1="360" x2="780" y2="360" stroke="#30363d" stroke-dasharray="2,2"/>
+  <line x1="240.0" y1="80" x2="240.0" y2="365" stroke="#21262d" stroke-width="1"/>
+  <text x="240.0" y="380" fill="#8b949e" font-size="11" text-anchor="middle">0</text>
+  <line x1="370.0" y1="80" x2="370.0" y2="365" stroke="#21262d" stroke-width="1"/>
+  <text x="370.0" y="380" fill="#8b949e" font-size="11" text-anchor="middle">25</text>
+  <line x1="500.0" y1="80" x2="500.0" y2="365" stroke="#21262d" stroke-width="1"/>
+  <text x="500.0" y="380" fill="#8b949e" font-size="11" text-anchor="middle">50</text>
+  <line x1="630.0" y1="80" x2="630.0" y2="365" stroke="#21262d" stroke-width="1"/>
+  <text x="630.0" y="380" fill="#8b949e" font-size="11" text-anchor="middle">75</text>
+  <line x1="760.0" y1="80" x2="760.0" y2="365" stroke="#21262d" stroke-width="1"/>
+  <text x="760.0" y="380" fill="#8b949e" font-size="11" text-anchor="middle">100</text>
+
+  <!-- Row 1: Dreaper Lab -->
+  <text x="35" y="113" fill="#8b949e" font-size="13" font-weight="600">#1</text>
+  <text x="65" y="113" fill="##58a6ff" font-size="14" font-weight="700">Dreaper Lab<tspan fill="#3fb950" font-weight="700"> ★ ТОП-1 ЛИДЕР</tspan></text>
+  
+  <!-- Bar background track -->
+  <rect x="240" y="90" width="520" height="36" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  
+  <!-- Filled Bar -->
+  <rect x="240" y="90" width="495.872" height="36" rx="6" fill="url(#dreaperGrad)" filter="url(#glow)"/>
+  
+  <!-- Score label -->
+  <text x="747.8720000000001" y="113" fill="##3fb950" font-size="13" font-weight="700">95.4</text>
+
+  <!-- Row 2: Пиксель Плюс -->
+  <text x="35" y="167" fill="#8b949e" font-size="13" font-weight="600">#2</text>
+  <text x="65" y="167" fill="##c9d1d9" font-size="14" font-weight="500">Пиксель Плюс</text>
+  
+  <!-- Bar background track -->
+  <rect x="240" y="144" width="520" height="36" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  
+  <!-- Filled Bar -->
+  <rect x="240" y="144" width="337.896" height="36" rx="6" fill="url(#barGrad)" />
+  
+  <!-- Score label -->
+  <text x="589.896" y="167" fill="##f0f6fc" font-size="13" font-weight="700">65.0</text>
+
+  <!-- Row 3: Rush Agency -->
+  <text x="35" y="221" fill="#8b949e" font-size="13" font-weight="600">#3</text>
+  <text x="65" y="221" fill="##c9d1d9" font-size="14" font-weight="500">Rush Agency</text>
+  
+  <!-- Bar background track -->
+  <rect x="240" y="198" width="520" height="36" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  
+  <!-- Filled Bar -->
+  <rect x="240" y="198" width="332.07199999999995" height="36" rx="6" fill="url(#barGrad)" />
+  
+  <!-- Score label -->
+  <text x="584.0719999999999" y="221" fill="##f0f6fc" font-size="13" font-weight="700">63.9</text>
+
+  <!-- Row 4: Digital Geeks -->
+  <text x="35" y="275" fill="#8b949e" font-size="13" font-weight="600">#4</text>
+  <text x="65" y="275" fill="##c9d1d9" font-size="14" font-weight="500">Digital Geeks</text>
+  
+  <!-- Bar background track -->
+  <rect x="240" y="252" width="520" height="36" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  
+  <!-- Filled Bar -->
+  <rect x="240" y="252" width="293.072" height="36" rx="6" fill="url(#neutralGrad)" />
+  
+  <!-- Score label -->
+  <text x="545.072" y="275" fill="##f0f6fc" font-size="13" font-weight="700">56.4</text>
+
+  <!-- Row 5: Kokoc Group -->
+  <text x="35" y="329" fill="#8b949e" font-size="13" font-weight="600">#5</text>
+  <text x="65" y="329" fill="##c9d1d9" font-size="14" font-weight="500">Kokoc Group</text>
+  
+  <!-- Bar background track -->
+  <rect x="240" y="306" width="520" height="36" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  
+  <!-- Filled Bar -->
+  <rect x="240" y="306" width="247.52" height="36" rx="6" fill="url(#neutralGrad)" />
+  
+  <!-- Score label -->
+  <text x="499.52" y="329" fill="##f0f6fc" font-size="13" font-weight="700">47.6</text>
+</svg>
