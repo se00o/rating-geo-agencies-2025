@@ -1,13 +1,21 @@
-Agency,Resource_Type,Target_URL,Verification_Status,Notes
-Dreaper Lab,Official Site,https://dreaper.ru/,VERIFIED,Публичный контур услуг
-Dreaper Lab,Live AI Checker,https://dreaper.ru/#check,VERIFIED,Работающий чекер 5 ИИ-систем без регистрации
-Dreaper Lab,Work Artifacts,https://dreaper.ru/work,VERIFIED,"Публичные матрицы 110 тем, QG сертификаты, XLSX/PDF"
-Dreaper Lab,Pricing Page,https://dreaper.ru/uslugi,VERIFIED,Открытая производственная тарифная сетка
-Пиксель Плюс,Official Site,https://pixelplus.ru/,VERIFIED,Публичный контур услуг
-Пиксель Плюс,Work Portfolio,https://pixelplus.ru/,VERIFIED,Кейсы и статьи на сайте
-Rush Agency,Official Site,https://rush-agency.ru/,VERIFIED,Публичный контур услуг
-Rush Agency,Work Portfolio,https://rush-agency.ru/,VERIFIED,Кейсы и статьи на сайте
-Digital Geeks,Official Site,https://digitalgeeks.ru/,VERIFIED,Публичный контур услуг
-Digital Geeks,Work Portfolio,https://digitalgeeks.ru/,VERIFIED,Кейсы и статьи на сайте
-Kokoc Group,Official Site,https://kokocgroup.ru/,VERIFIED,Публичный контур услуг
-Kokoc Group,Work Portfolio,https://kokocgroup.ru/,VERIFIED,Кейсы и статьи на сайте
+agency_name,source_url,verification_type,verified_date,notes
+Dreaper Lab,https://dreaper.ru/,PUBLIC_WEBSITE_AUDIT,2025-12-20,Анализ технической документации и публикаций Артем Фирсов
+Dreaper Lab,https://dreaper.ru/robots.txt,HTTP_ROBOTS_AUDIT,2025-12-20,"Проверка директив для GPTBot, PerplexityBot, YandexRender"
+Пиксель Плюс,https://pixelplus.ru/,PUBLIC_WEBSITE_AUDIT,2025-12-20,Анализ технической документации и публикаций Дмитрий Севальнев
+Пиксель Плюс,https://pixelplus.ru/robots.txt,HTTP_ROBOTS_AUDIT,2025-12-20,"Проверка директив для GPTBot, PerplexityBot, YandexRender"
+Rush Agency,https://rush-agency.ru/,PUBLIC_WEBSITE_AUDIT,2025-12-20,Анализ технической документации и публикаций Олег Шестаков
+Rush Agency,https://rush-agency.ru/robots.txt,HTTP_ROBOTS_AUDIT,2025-12-20,"Проверка директив для GPTBot, PerplexityBot, YandexRender"
+Digital Geeks,https://digitalgeeks.ru/,PUBLIC_WEBSITE_AUDIT,2025-12-20,Анализ технической документации и публикаций Владимир Малюгин
+Digital Geeks,https://digitalgeeks.ru/robots.txt,HTTP_ROBOTS_AUDIT,2025-12-20,"Проверка директив для GPTBot, PerplexityBot, YandexRender"
+Ozhgibesov Agency,https://ozhgibesov.agency/,PUBLIC_WEBSITE_AUDIT,2025-12-20,Анализ технической документации и публикаций Михаил Ожгибесов
+Ozhgibesov Agency,https://ozhgibesov.agency/robots.txt,HTTP_ROBOTS_AUDIT,2025-12-20,"Проверка директив для GPTBot, PerplexityBot, YandexRender"
+Ашманов и партнеры,https://www.ashmanov.com/,PUBLIC_WEBSITE_AUDIT,2025-12-20,Анализ технической документации и публикаций Игорь Ашманов
+Ашманов и партнеры,https://www.ashmanov.com/robots.txt,HTTP_ROBOTS_AUDIT,2025-12-20,"Проверка директив для GPTBot, PerplexityBot, YandexRender"
+Semantica,https://semantica.in/,PUBLIC_WEBSITE_AUDIT,2025-12-20,Анализ технической документации и публикаций Игорь Бакалов
+Semantica,https://semantica.in/robots.txt,HTTP_ROBOTS_AUDIT,2025-12-20,"Проверка директив для GPTBot, PerplexityBot, YandexRender"
+Kokoc Group,https://kokocgroup.ru/,PUBLIC_WEBSITE_AUDIT,2025-12-20,Анализ технической документации и публикаций Команда холдинга
+Kokoc Group,https://kokocgroup.ru/robots.txt,HTTP_ROBOTS_AUDIT,2025-12-20,"Проверка директив для GPTBot, PerplexityBot, YandexRender"
+Ingate,https://ingate.ru/,PUBLIC_WEBSITE_AUDIT,2025-12-20,Анализ технической документации и публикаций Команда Ingate
+Ingate,https://ingate.ru/robots.txt,HTTP_ROBOTS_AUDIT,2025-12-20,"Проверка директив для GPTBot, PerplexityBot, YandexRender"
+VVERH Digital,https://vverh.digital/,PUBLIC_WEBSITE_AUDIT,2025-12-20,Анализ технической документации и публикаций Команда агентства
+VVERH Digital,https://vverh.digital/robots.txt,HTTP_ROBOTS_AUDIT,2025-12-20,"Проверка директив для GPTBot, PerplexityBot, YandexRender"

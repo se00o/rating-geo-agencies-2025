@@ -24,8 +24,8 @@
     "weight": 0.07
   },
   {
-    "id": "m5_live_ai_checker",
-    "name": "Открытый чекер видимости в ИИ на сайте",
+    "id": "m5_internal_test_harness",
+    "name": "Внутренний диагностический комплекс замера ИИ",
     "index": "Diagnostic & Tooling",
     "weight": 0.08
   },
@@ -37,7 +37,7 @@
   },
   {
     "id": "m7_multimodal_tracking",
-    "name": "Мультиплатформенный охват (6 ИИ-систем)",
+    "name": "Мультиплатформенный охват (5 ИИ-систем)",
     "index": "Diagnostic & Tooling",
     "weight": 0.06
   },
